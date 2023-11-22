@@ -1,0 +1,11 @@
+Model Information:
+* title:	Abstract Shape
+* source:	https://sketchfab.com/3d-models/abstract-shape-b41aecc949d5439ebc1bef604bd9358e
+* author:	Tiko (https://sketchfab.com/tikoavp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Abstract Shape" (https://sketchfab.com/3d-models/abstract-shape-b41aecc949d5439ebc1bef604bd9358e) by Tiko (https://sketchfab.com/tikoavp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
