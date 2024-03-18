@@ -1,5 +1,6 @@
 # AutoMate
 Website for the AI agency AutoMate
+---
 
 Building out this website was a fantastic experience. I got intimately familiar with JS, Node, Tailwind, Vite and other powerful web developmenmt library and tools - tools I'm continuing to use and I'm excited to show that progress here soon. I'm passionate about AI and process automation, so I decided to build the frontend/landing page for a website that I can use in the future to direct people to services I can offer. Moreover, building AI algorithms or using existing ones in novel ways is one thing - bringing them to production and deployment is another. This project was mainly driven by the fact I wanted to be more familiar with web development so that I can ultimately understand the full MLOps processes (as any AI/ML algos will ultimately be used by end users on the web). 
 
